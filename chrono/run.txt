@@ -1,0 +1,2 @@
+1. ssh picoplayer@saturn.picoctf.net -p 65314
+2. cat /etc/crontab

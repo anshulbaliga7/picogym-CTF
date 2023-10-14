@@ -1,0 +1,2 @@
+1. strings strings
+2. strings strings | grep pico

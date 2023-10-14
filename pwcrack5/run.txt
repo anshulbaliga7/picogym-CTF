@@ -1,0 +1,4 @@
+1. cat level5.py
+2. edit level5_pw_check() func to read from dictionary.txt and hash each value
+3. password is 7e5f
+4. python3 level5.py

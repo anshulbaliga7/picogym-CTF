@@ -1,0 +1,2 @@
+1. Can use wget or just save
+2. cat flag

@@ -1,0 +1,6 @@
+1. sudo ssh picoplayer@saturn.picoctf.net -p 56879
+2. ./useless
+3. cat useless
+4. enter 3 numbers here
+5. ./useless 2 3 4
+6. man useless

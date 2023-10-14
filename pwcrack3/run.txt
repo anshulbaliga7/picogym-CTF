@@ -1,0 +1,3 @@
+1. cat level3.py
+2. python level3.py
+3. 7 possible pws: password: 87ab

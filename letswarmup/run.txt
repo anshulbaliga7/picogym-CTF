@@ -1,0 +1,3 @@
+1. python3
+2. bytes.fromhex("70")
+3. bytes.fromhex("70").decode

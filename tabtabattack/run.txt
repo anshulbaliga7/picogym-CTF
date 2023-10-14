@@ -1,0 +1,4 @@
+1. cat fang-of-haynekhtnamet
+2. strings fang-of-haynekhtnamet 
+3. strings fang-of-haynekhtnamet | grep pico
+

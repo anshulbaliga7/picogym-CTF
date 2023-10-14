@@ -1,0 +1,2 @@
+1. python3 ende.py -d flag.txt.en
+2. Enter password

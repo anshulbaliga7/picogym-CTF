@@ -1,0 +1,4 @@
+1. exiftool cat.jpg
+2. cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 is license
+3. echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
+

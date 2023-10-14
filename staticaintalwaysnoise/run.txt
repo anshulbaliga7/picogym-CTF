@@ -1,0 +1,8 @@
+1. chmod +x ltdis.sh
+2. ./ltdis.sh 
+3. ltdis.sh static
+4. cat static.ltdis.strings.txt | grep pico 
+
+OR
+
+1. strings static | grep pico
