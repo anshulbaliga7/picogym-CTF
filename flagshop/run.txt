@@ -1,0 +1,2 @@
+1. nc jupiter.challenges.picoctf.org 44566
+2. 3000000
